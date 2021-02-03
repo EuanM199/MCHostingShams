@@ -17,5 +17,12 @@ Discord: https://discord.gg/RKq9qyM6
 
 * Boxtoplay "Deletes Server critical plugins like coreprotect unless you contact support, with 0 warning to users"
 
-* Scalacube "CPU pinned at 100% constantly, server runs like a slideshow
+* Scalacube "CPU pinned at 100% constantly, server runs like a slideshow"
+
+* KudoHosting "went bankrupt without alerting users, giving them 0 chance to download their servers"
+
+* Minehut "Runs all "free" servers under the same network, but made the mistake of having all servers running under the same directory allowing plugins like skript access to mess with other servers, only allows whitelisted plugins, that are forked versions with update checks removed leaving plugins massively outdated"
+
+* VPScraft Limits server connections to databases causing servers to get blocked from them and support takes 1 month to fix 
+
 
