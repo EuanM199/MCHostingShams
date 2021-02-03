@@ -28,3 +28,5 @@ To add a host, create a PR request :)
 * Sparkedhost "Most of their plans are known to not perform good (most likely overselling), every node has their own different specs, making your performance basically based on luck, "Unlimited storage" scam and is known to have bought competing host companies and terminated them."
 
 * Nodecraft "Support isn't great and there prices are absolutely horrible (10$/gb for some plans)"
+
+* falixnodes "Requires discord login, Join4Resources marketing, known to have had fraudelent activity in the past including piracy. Is also known to supress bad opinions and abuse dedicated servers' payments to get their resources."
