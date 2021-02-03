@@ -1,0 +1,2 @@
+# MChostingshame
+Minecraft hosting shame
