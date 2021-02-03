@@ -23,6 +23,8 @@ Discord: https://discord.gg/RKq9qyM6
 
 * Minehut "Runs all "free" servers under the same network, but made the mistake of having all servers running under the same directory allowing plugins like skript access to mess with other servers, only allows whitelisted plugins, that are forked versions with update checks removed leaving plugins massively outdated"
 
-* VPScraft Limits server connections to databases causing servers to get blocked from them and support takes 1 month to fix 
+* VPScraft "Limits server connections to databases causing servers to get blocked from them and support takes 1 month to fix"
 
+* Sparkedhost "Most of their plans are known to not perform good (most likely overselling), every node has their own different specs, making your performance basically based on luck, "Unlimited storage" scam and is known to have bought competing host companies and terminated them."
 
+* Nodecraft "Support isn't great and there prices are absolutely horrible (10$/gb for some plans)"
