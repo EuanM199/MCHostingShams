@@ -10,3 +10,10 @@ Discord: https://discord.gg/RKq9qyM6
 * Pebblehost "seems great on the surface, but if you need support expect to be told the same 3 things over and over,  To check the spigot guide, show you purpur or tunity, or tell you to upgrade your plan, has a script running on every server that checks if you have "backup.zip" and deletes them, and completely oversells their nodes like mad"
 
 * Slothhost "Owner sadly ran away with all the funds from the server and left the brand new staff to deal with the angry mob of customers who lost all their data"
+
+* TitanNodes "CEO acts like a child quite a lot of the time, other than that, very solid servers."
+
+* GG servers "They require people go into paypal subscriptions and cancel there, which causes people to cancel on their site just to end up being charged for months afterwards, with 0 refunds"
+
+* Boxtoplay "Deletes Server critical plugins like coreprotect unless you contact support, with 0 warning to users"
+
