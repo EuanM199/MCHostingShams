@@ -13,7 +13,9 @@ Discord: https://discord.gg/RKq9qyM6
 
 * TitanNodes "CEO acts like a child quite a lot of the time, other than that, very solid servers."
 
-* GG servers "They require people go into paypal subscriptions and cancel there, which causes people to cancel on their site just to end up being charged for months afterwards, with 0 refunds"
+* GG servers "They require people go into paypal subscriptions and cancel there, which causes people to cancel on their site just to end up being charged for months afterwards, with 0 refunds.  have "lost" peoples entire servers before"
 
 * Boxtoplay "Deletes Server critical plugins like coreprotect unless you contact support, with 0 warning to users"
+
+* Scalacube "CPU pinned at 100% constantly, server runs like a slideshow
 
